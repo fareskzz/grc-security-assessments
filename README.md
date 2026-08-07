@@ -4,25 +4,25 @@ A collection of hands-on Governance, Risk, and Compliance (GRC) security assessm
 
 ## Assessments
 
-| # | Assessment | Environment | Framework / Focus |
-|---|---|---|---|
-| 1 | [Windows 10 ISO/IEC 27001 GRC Assessment](./windows-10-iso27001-assessment) | Windows 10 | ISO/IEC 27001:2013 |
-| 2 | [Kali Linux Security & Hardening Assessment](./kali-linux-hardening-assessment) | Kali Linux | Security hardening / baseline assessment |
-| 3 | Windows 7 HR GRC Security Assessment | Windows 7 | GRC / HR environment | Planned addition |
+| # | Assessment                                                                      | Environment | Framework / Focus                        |
+| - | ------------------------------------------------------------------------------- | ----------- | ---------------------------------------- |
+| 1 | [Windows 10 ISO/IEC 27001 GRC Assessment](./windows-10-iso27001-assessment)     | Windows 10  | ISO/IEC 27001:2013                       |
+| 2 | [Kali Linux Security & Hardening Assessment](./kali-linux-hardening-assessment) | Kali Linux  | Security hardening / baseline assessment |
+| 3 | [Windows 7 HR GRC Security Assessment](./Windows-7-HR-GRC-Assessment)           | Windows 7   | GRC / HR environment                     |
 
 ## What This Portfolio Demonstrates
 
-- Governance, Risk & Compliance (GRC)
-- Risk identification and prioritization
-- Security control assessment
-- ISO/IEC 27001 control mapping
-- Windows security configuration review
-- Linux security hardening
-- Access control and least privilege
-- Cryptographic controls
-- Logging and monitoring
-- Network security
-- Remediation planning and documentation
+* Governance, Risk & Compliance (GRC)
+* Risk identification and prioritization
+* Security control assessment
+* ISO/IEC 27001 control mapping
+* Windows security configuration review
+* Linux security hardening
+* Access control and least privilege
+* Cryptographic controls
+* Logging and monitoring
+* Network security
+* Remediation planning and documentation
 
 ## Methodology
 
@@ -41,4 +41,5 @@ The assessments use a practical, risk-based approach:
 These assessments were performed in controlled lab environments for educational and portfolio purposes. They should not be treated as production compliance certifications or substitutes for formal audits.
 
 ---
+
 **Author:** Fares Khzouz
